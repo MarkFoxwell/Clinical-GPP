@@ -1,2 +1,2 @@
 * This is a draft GPP guidance
-** Section 2
+**Section 2
